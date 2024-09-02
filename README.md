@@ -15,8 +15,8 @@ Pico-8 is a game engine that simulates what older game developement was like, sp
 ## 5. Can Tree [https://www.cgchan.com/cantree]
 Trees :D
 
-## 6. [
-
+## 6. Krita [https://krita.org/en/]
+Krita is an amazing software I've been using for years that can do anything from photo manipulation (akin to Photoshop) to animation. A truly incredible piece of open source (free!!) software that allows people to be amazingly creative.
 
 ## 7. Google Fonts [https://fonts.google.com/]
 A great place to find fonts with various liscenses
