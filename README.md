@@ -18,8 +18,8 @@ Pico-8 is a game engine that simulates what older game developement was like, sp
 ## 6. [
 
 
-## 7. [
-
+## 7. Google Fonts [https://fonts.google.com/]
+A great place to find fonts with various liscenses
 
 ## 8. [
 
