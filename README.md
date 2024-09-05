@@ -10,7 +10,7 @@ A truly incredible developement in the AI field of Game Development. Programmers
 
 
 ## 4. JSFXR [https://github.grumdrig.com/jsfxr/]
-
+I recently used JSFXR for a Game Jam (Pirate Jam 15), and while it was somewhat confusing to use, it can make some truly amazing sound effects. Being able to control every aspect of a sound can be intimidating (and probably will be), but it gives you the ability to make anything you might / will need for game sounds (under a certain aesthetic).
 
 ## 5. Can Tree [https://www.cgchan.com/cantree]
 Trees :D
