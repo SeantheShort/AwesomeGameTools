@@ -13,7 +13,7 @@ A truly incredible developement in the AI field of Game Development. Programmers
 I recently used JSFXR for a Game Jam (Pirate Jam 15), and while it was somewhat confusing to use, it can make some truly amazing sound effects. Being able to control every aspect of a sound can be intimidating (and probably will be), but it gives you the ability to make anything you might / will need for game sounds (under a certain aesthetic).
 
 ## 5. Can Tree [https://www.cgchan.com/cantree]
-Trees :D
+In my opinion, trees are some of the hardest things to make for game development. The complex structure of branches and leaves leads to misunderstandings in how trees structure themselves. So learning that there is a tool made for literally generating custom trees is amazing. (Also, if someone finds this for 3D software, please let me know!! I despise modelling trees!)
 
 ## 6. Krita [https://krita.org/en/]
 Krita is an amazing software I've been using for years that can do anything from photo manipulation (akin to Photoshop) to animation. A truly incredible piece of open source (free!!) software that allows people to be amazingly creative.
