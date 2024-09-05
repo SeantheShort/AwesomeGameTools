@@ -1,7 +1,7 @@
 # AwesomeGameTools
 
 ## 1. Pico-8 [https://www.lexaloffle.com/pico-8.php]
-Pico-8 is a game engine that simulates what older game developement was like, specifically by adding limitations to what the engine can do.
+Pico-8 is a game engine that simulates what older game developement was like, specifically by adding limitations to what the engine can do. While this isn't a game engine everyone should use to make games, it's a fun one to practice that offers a new (and very unique) way of looking at game developement.
 
 ## 2. GameNGen [https://gamengen.github.io/]
 A truly incredible developement in the AI field of Game Development. Programmers have gotten an AI to generate a playthrough of Doom via stable diffusion. Maybe not a "tool" we can all use, but it's definetly something everyone should be paying attention to.
