@@ -24,7 +24,7 @@ A great place to find fonts with open source liscences. Honestly you can find an
 ## 8. Python PIL Library [https://pillow.readthedocs.io/en/stable/]
 An amazing library for Python that allows you to do tons of image manipulation. If you know python, I highly recommend learning this library. You have no clue how helpful coding image changes can be. (I've personally used it for resizing pixelated image sequences, which would've taken me hours if I had to do it manually)
 
-## 9. [
-
+## 9. Unity Documentation [https://docs.unity.com/]
+This one only really works if you use the Unity Game Engine, but this point should go for all engines. Use the documentation!!! It will have all the information you need about different code objects and functions, and pretty much everything. (Also, if you are a unity dev, look at the time section of Unity Docs, it has a whole lot of useful information)
 
 ## 10. [
