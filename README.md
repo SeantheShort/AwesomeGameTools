@@ -6,7 +6,7 @@ Pico-8 is a game engine that simulates what older game developement was like, sp
 ## 2. GameNGen [https://gamengen.github.io/]
 A truly incredible developement in the AI field of Game Development. Programmers have gotten an AI to generate a playthrough of Doom via stable diffusion. Maybe not a "tool" we can all use, but it's definetly something everyone should be paying attention to.
 
-## 3. Ardour [https://ardour.org/]
+## 3. Audacity [https://www.audacityteam.org/]
 
 
 ## 4. JSFXR [https://github.grumdrig.com/jsfxr/]
