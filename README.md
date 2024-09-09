@@ -21,8 +21,8 @@ Krita is an amazing software I've been using for years that can do anything from
 ## 7. Google Fonts [https://fonts.google.com/]
 A great place to find fonts with open source liscences. Honestly you can find any font style here and it's incredibly useful for game developers who need a unique font for their game.
 
-## 8. [
-
+## 8. Python PIL Library [https://pillow.readthedocs.io/en/stable/]
+An amazing library for Python that allows you to do tons of image manipulation. If you know python, I highly recommend learning this library. You have no clue how helpful coding image changes can be. (I've personally used it for resizing pixelated image sequences, which would've taken me hours if I had to do it manually)
 
 ## 9. [
 
