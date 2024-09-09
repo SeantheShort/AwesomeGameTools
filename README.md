@@ -19,7 +19,7 @@ In my opinion, trees are some of the hardest things to make for game development
 Krita is an amazing software I've been using for years that can do anything from photo manipulation (akin to Photoshop) to animation. A truly incredible piece of open source (free!!) software that allows people to be amazingly creative.
 
 ## 7. Google Fonts [https://fonts.google.com/]
-A great place to find fonts with various liscenses
+A great place to find fonts with open source liscences. Honestly you can find any font style here and it's incredibly useful for game developers who need a unique font for their game.
 
 ## 8. [
 
