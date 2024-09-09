@@ -7,7 +7,7 @@ Pico-8 is a game engine that simulates what older game developement was like, sp
 A truly incredible developement in the AI field of Game Development. Programmers have gotten an AI to generate a playthrough of Doom via stable diffusion. Maybe not a "tool" we can all use, but it's definetly something everyone should be paying attention to.
 
 ## 3. Audacity [https://www.audacityteam.org/]
-
+I've been using Audacity for a few years, and while it is confusing (similarly to JSFXR), it can do so much! It can do (from what I've seen) any kind of audio editing, so it's incredibly useful for any kind of audio editing in game developement. Definetly something worth looking in to!!
 
 ## 4. JSFXR [https://github.grumdrig.com/jsfxr/]
 I recently used JSFXR for a Game Jam (Pirate Jam 15), and while it was somewhat confusing to use, it can make some truly amazing sound effects. Being able to control every aspect of a sound can be intimidating (and probably will be), but it gives you the ability to make anything you might / will need for game sounds (under a certain aesthetic).
