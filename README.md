@@ -27,4 +27,5 @@ An amazing library for Python that allows you to do tons of image manipulation. 
 ## 9. Unity Documentation [https://docs.unity.com/]
 This one only really works if you use the Unity Game Engine, but this point should go for all engines. Use the documentation!!! It will have all the information you need about different code objects and functions, and pretty much everything. (Also, if you are a unity dev, look at the time section of Unity Docs, it has a whole lot of useful information)
 
-## 10. [
+## 10. Desmos [https://www.desmos.com/]
+Desmos is a free calculator system that has 2D and 3D Graphing features, and is one of the most useful tools for game developement. Math is a key part of programming, so having a free tool for easily visualizing mathematical concepts is amazing! I highly recommend diving into the graphing features Desmos offers, as it allows you to make tons of incredible visuals.
