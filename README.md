@@ -53,3 +53,24 @@ To put it simply, concept designers design the style of the game before it is re
 
 ## 7. Environment Designer
 Environment Designers work with the other members of the art field to ensure that the environment is consistent stylistically, without taking to much away from the main visuals. They often work with the level designers to make sure that the level features are consistent with aspects of the world.
+
+# Game Programming Sub-Fields
+## 1. Graphics Programmer
+
+
+## 2. Physics Programmer
+
+
+## 3. Sound Programmer
+
+
+## 4. UI Programmer
+
+
+## 5. Network Programmer
+
+
+## 6. Engine Programmer
+
+
+## 7. Lead Game Programmer
