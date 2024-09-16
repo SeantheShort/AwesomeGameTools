@@ -59,18 +59,18 @@ Environment Designers work with the other members of the art field to ensure tha
 Graphics Programmers work to develop how the graphics are drawn to the screen. They work with the artistic fields to ensure that the art they create can be implented into the game in a stylistcally consitent game.
 
 ## 2. Physics Programmer
+As the title implies, physics programmers are in charge of developing the physics of the game. They also work on the particles and effects systems of the game. They also need to work in a mix of pure physics and artistic freedom.
+
+## 3. 
 
 
-## 3. Sound Programmer
-
-
-## 4. UI Programmer
+## 4. 
 
 
 ## 5. Network Programmer
-
+Network Programmers develop the multiplayer systems of the game, deciding what parts of the game should be sent online. This is a very complicated part of game programming that requires a lot of problem solving.
 
 ## 6. Engine Programmer
-
+Engine Prgrammers develop the engine which acutally runs the game. They have to be skilled in many, many aspects of game developement, as the engine will run many parts of it. They also work with system designers to plan for what parts of the game are necessary, thus deciding what will be needed in the game engine.
 
 ## 7. Lead Game Programmer
