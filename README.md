@@ -37,19 +37,19 @@ These titles were found from the Credits for Nine Sols (an amazing game)
 As the name implies, they work to create the map, stages, and levels of the game. They also work to design the interactions in the levels, and control the difficulty dependent on the levels.
 
 ## 2. Combat Design
-Defines the combat mechanics of the game (helping to set the scope). A very important part of game developement, since the player's abilities will be the majority of the player's experience. Combat Designers also work with many other game dev paths, as player mechanics are deeply rooted in all parts of the game (animation, level design, etc).
+Defines the combat mechanics of the game (helping to set the scope). A very important part of game developement, since the player's abilities will be the majority of the player's experience. Combat Designers also work with many other game dev paths, as player mechanics are deeply rooted in all parts of the game (animation, level design, AI, etc).
 
 ## 3. System Design
-Text
+Similar to Combat Design, except the developer focuses on objects outside the player. They help define a large amount of the game, anywhere from projectiles to game progression events.
 
 ## 4. Narrative Design
-Text
+A very new field, narrative designers work to turn the plot of a story into a game. They are not game writers, rather the people who work with the writers to convert their ideas into game mechanics.
 
-## 5. Art Director
-Text
+## 5. Character Designer
+Character Designers work to take the description of a character and turn it into a phesible character model that consistent with the rest of the game. In this way, they are similar to the Concept Designer, but more specialized to characters. They also help to create reference sheets for the 2D and 3D Artists.
 
 ## 6. Concept Designer
-Text
+To put it simply, concept designers design the style of the game before it is really created. They often oversee the work of the 2D and 3D artists to make sure the style is consistent.
 
 ## 7. Environment Designer
-Text
+Environment Designers work with the other members of the art field to ensure that the environment is consistent stylistically, without taking to much away from the main visuals. They often work with the level designers to make sure that the level features are consistent with aspects of the world.
