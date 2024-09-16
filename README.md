@@ -34,10 +34,10 @@ Desmos is a free calculator system that has 2D and 3D Graphing features, and is 
 # Game Dev Career Parthways
 These titles were found from the Credits for Nine Sols (an amazing game)
 ## 1. Level Designer
-Text
+As the name implies, they work to create the map, stages, and levels of the game. They also work to design the interactions in the levels, and control the difficulty dependent on the levels.
 
 ## 2. Combat Design
-Text
+Defines the combat mechanics of the game (helping to set the scope). A very important part of game developement, since the player's abilities will be the majority of the player's experience. Combat Designers also work with many other game dev paths, as player mechanics are deeply rooted in all parts of the game (animation, level design, etc).
 
 ## 3. System Design
 Text
