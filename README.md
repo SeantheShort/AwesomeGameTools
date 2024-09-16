@@ -56,7 +56,7 @@ Environment Designers work with the other members of the art field to ensure tha
 
 # Game Programming Sub-Fields
 ## 1. Graphics Programmer
-
+Graphics Programmers work to develop how the graphics are drawn to the screen. They work with the artistic fields to ensure that the art they create can be implented into the game in a stylistcally consitent game.
 
 ## 2. Physics Programmer
 
