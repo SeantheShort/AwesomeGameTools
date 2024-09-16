@@ -30,7 +30,9 @@ This one only really works if you use the Unity Game Engine, but this point shou
 ## 10. Desmos [https://www.desmos.com/]
 Desmos is a free calculator system that has 2D and 3D Graphing features, and is one of the most useful tools for game developement. Math is a key part of programming, so having a free tool for easily visualizing mathematical concepts is amazing! I highly recommend diving into the graphing features Desmos offers, as it allows you to make tons of incredible visuals.
 
+
 # Game Dev Career Parthways
+These titles were found from the Credits for Nine Sols (an amazing game)
 ## 1. Level Designer
 Text
 
