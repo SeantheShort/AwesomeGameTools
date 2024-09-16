@@ -61,11 +61,11 @@ Graphics Programmers work to develop how the graphics are drawn to the screen. T
 ## 2. Physics Programmer
 As the title implies, physics programmers are in charge of developing the physics of the game. They also work on the particles and effects systems of the game. They also need to work in a mix of pure physics and artistic freedom.
 
-## 3. 
+## 3. Gameplay Programmer
+Gameplay Programmers write the code for how the player interacts with the game. They implement the player's combat and movement, as well as developing the rules of object interactions. They also work on optimizing and balancing the game systems.
 
-
-## 4. 
-
+## 4. Tools Programmer
+Tools Programmers develop systems that other members of the team can use to be more efficient. Because they work with many members of the team, they haveto be skilled in many areas of developement, especially art.
 
 ## 5. Network Programmer
 Network Programmers develop the multiplayer systems of the game, deciding what parts of the game should be sent online. This is a very complicated part of game programming that requires a lot of problem solving.
@@ -74,3 +74,4 @@ Network Programmers develop the multiplayer systems of the game, deciding what p
 Engine Prgrammers develop the engine which acutally runs the game. They have to be skilled in many, many aspects of game developement, as the engine will run many parts of it. They also work with system designers to plan for what parts of the game are necessary, thus deciding what will be needed in the game engine.
 
 ## 7. Lead Game Programmer
+Oversees all of the previously mentioned fields, and more. While they aren't specialozed, they should have enough knowledge to work with all members of the programming (and wider developement) team.
